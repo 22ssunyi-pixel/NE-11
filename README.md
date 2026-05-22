@@ -1,4 +1,3 @@
-[NE_수능독해_AI_문제은행_v2.html](https://github.com/user-attachments/files/28143140/NE_._AI_._v2.html)
 <!DOCTYPE html>
 <html lang="ko">
 <head>
